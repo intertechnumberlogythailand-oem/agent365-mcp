@@ -12,7 +12,7 @@ Agent365 MCP provides a Model Context Protocol (MCP) server that integrates with
 - Fetch and parse EDMX metadata for cr_aimodels
 - Extract properties, lookups, and entity schema
 - Automatic publisher prefix detection (fuzzy matching)
-
+ 
 ✅ **Azure Authentication**
 - MSAL token caching for efficient API calls
 - Secure client credentials flow
